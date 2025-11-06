@@ -1,0 +1,30 @@
+[
+    {
+        "Store": 1,
+        "Dept": 1,
+        "Date": "2012-11-02",
+        "IsHoliday": false,
+        "Type": "A",
+        "Size": 151315,
+        "Temperature": 55.32,
+        "Fuel_Price": 3.386,
+        "CPI": 223.444251,
+        "Unemployment": 6.573,
+        "MarkDown1": 8077.89,
+        "MarkDown2": 0.0,
+        "MarkDown3": 18.22,
+        "MarkDown4": 3617.43,
+        "MarkDown5": 3626.14,
+        "Lag_1": 25000.00,
+        "Lag_2": 24500.00,
+        "Lag_4": 26000.00,
+        "Lag_52": 23000.00,
+        "Rolling_Avg_4": 25125.50,
+        "Rolling_Avg_8": 25550.75,
+        "Rolling_Avg_12": 25800.00,
+        "Rolling_Std_4": 550.25,
+        "Rolling_Std_8": 750.00,
+        "Rolling_Std_12": 810.50,
+        "Sales_Momentum": 500.00
+    }
+]
